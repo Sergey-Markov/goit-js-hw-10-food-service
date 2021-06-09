@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;AACA,aADA,QAAA,oBACAA,QAAQC,IAAK","file":"src.c0aa5f93.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\nconsole.log(`fire`);"]}
